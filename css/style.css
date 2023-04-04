@@ -1,0 +1,44 @@
+header{
+    border-bottom: red 1px solid;
+    top: 0px;
+    z-index:1;
+}
+footer{
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  border-top: red 1px solid;
+} 
+
+.main{
+    
+    margin:5rem auto 5rem auto;
+    border: red 1px solid ;
+    padding: 2rem;
+    border-radius: .4rem;
+    width: 90%;
+ 
+}
+.first{
+    margin: auto;
+    display: block;
+    width: 50%;
+    border-radius: 0.4rem;
+}
+
+.castP{
+    width: 11rem;
+   text-align: center;
+   
+}
+.castP img{
+    border-radius: .4rem;
+    margin: auto;
+    box-shadow: 0px 0px 9px 0px rgba(251, 37, 37, 0.469) ;
+}
+.Contactp{
+    width: 5rem;
+    /* background-color: antiquewhite; */
+    border-radius: 100%;
+
+}
